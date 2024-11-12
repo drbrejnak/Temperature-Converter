@@ -37,7 +37,7 @@ function describeTemperature(f) {
     message = "very hot"
   }
 
-  return message;
+  return `${message}`;
 };
 
 /**
